@@ -1,0 +1,32 @@
+
+.leftContainer{
+    width: 50%;
+    float: left;
+   
+}
+
+.rightContainer{
+    width: 50%;
+    float:right;
+}
+
+.inputText{
+    padding: 12px 20px; 
+    height: "50px";
+    margin: 10px ;
+    margin-left: 50px;
+    box-sizing: border-box;
+    border: solid red;
+    border-radius: 4px;
+   
+
+
+}
+
+div h3{
+    border: 2px solid red;
+    padding: 10px;
+    
+    
+}
+
